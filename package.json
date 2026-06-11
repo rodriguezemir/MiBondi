@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"prettier": "3.8.4"
+	},
+	"dependencies": {
+		"turbo": "^2.9.17"
+	}
+}
